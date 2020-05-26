@@ -28,3 +28,5 @@ if($age <= 12){
 }else{
   header("Location:index.php?msg=Mzito, ${greeting}&greet=yes");
 }
+
+
